@@ -33,7 +33,7 @@ This project implements a convolutional neural network (CNN)-based audio classif
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nomaanrizvi/Audio-Classifier-for-Capuchin-bird-calls.git
-   cd Audio Classifier for Capuchin bird calls
+   cd Audio-Classifier-for-Capuchin-bird-calls
    ```
 
 2. Install the required dependencies:
